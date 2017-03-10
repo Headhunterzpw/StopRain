@@ -1,0 +1,4 @@
+name: StopRain
+authors: [jessegeerts, Headhunterz_, UltimateCake33, SpinninHost]
+version: 0.1-BETA
+main: nl.jessegeerts.customplugins.stoprain.Main
